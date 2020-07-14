@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Competitive Programming and Web Development
+- 📫 How to reach me my <a href="https://kartikeytewari.github.io/blog/">blog</a> or e-mail me at: kartikeya30@gmail.com
