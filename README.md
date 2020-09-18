@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Competitive Programming and Web Development
-- 📫 How to reach me: My <a href="https://kartikeytewari.github.io/blog/">blog</a> or e-mail me at: kartikeya30@gmail.com
+- 📫 How to reach me: My <a href="https://kartikeytewari.github.io/">blog</a> or e-mail me at: kartikeya30@gmail.com
 - 🌱 Checkout my resume <a href="https://kartikeytewari.github.io/blog/resume.pdf"> here </a>.
