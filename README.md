@@ -1,20 +1,11 @@
-### Hi there 👋
+- 🔭 I’m currently working on Unlogged SDK and Java Bytecode injection.
+- 📖 Read my blog at [kartikeytewari.github.io](https://kartikeytewari.github.io/).
+- 📫 Reach me at [kartikeya30@gmail.com](mailto:kartikeya30@gmail.com)
+- 🌱 Checkout my resume [here](https://kartikeytewari.github.io/resume.pdf).
 
-<!--
-**kartikeytewari/kartikeytewari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on Competitive Programming and Web Development
-- 📫 How to reach me: My <a href="https://kartikeytewari.github.io/">blog</a> or e-mail me at: kartikeya30@gmail.com
-- 🌱 Checkout my resume <a href="https://kartikeytewari.github.io/resume.pdf"> here </a>.
+### Some cool open-source projects:
+- unlogged-sdk: [unloggedio/unlogged-sdk](https://github.com/unloggedio/unlogged-sdk)
+- unlogged-plugin: [unloggedio/intellij-java-plugin](https://github.com/unloggedio/intellij-java-plugin)
+- unlogged-server: [unloggedio/server](https://github.com/unloggedio/server)
+- Performance benchmark on java: [unloggedio/usmd](https://github.com/unloggedio/unlogged-spring-maven-demo)
