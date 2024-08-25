@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on Unlogged SDK and Java Bytecode injection.
 - 📖 Read my blog at [kartikeytewari.github.io](https://kartikeytewari.github.io/).
-- 📫 Reach me at [kartikeya30@gmail.com](mailto:kartikeya30@gmail.com)
+- 📫 Reach out to me at [kartikeya30@gmail.com](mailto:kartikeya30@gmail.com)
 - 🌱 Checkout my resume [here](https://kartikeytewari.github.io/resume.pdf).
 
 
